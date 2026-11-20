@@ -30,7 +30,7 @@ window.APP_CONFIG = {
   /* ---------- Integrações ---------- */
   integracoes: {
     appsScriptUrl: "",   // não usado nesta página (só WhatsApp)
-    metaPixelId: ""      // só os números do Pixel — PREENCHER antes de rodar o anúncio
+    metaPixelId: "540801156825648"      // só os números do Pixel — PREENCHER antes de rodar o anúncio
   },
 
   pixel: { eventoCadastro: "CadastroIniciado" },
